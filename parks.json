@@ -1,0 +1,39 @@
+{
+  "parks": [
+    {
+      "parkId": "75ea578a-adc8-4116-a54d-dccb60765ef9",
+      "park": "Magic Kingdom Park",
+      "shortName": "Magic Kingdom"
+    },
+    {
+      "parkId": "47f90d2c-e191-4239-a466-5892ef59a88b",
+      "park": "EPCOT",
+      "shortName": "EPCOT"
+    },
+    {
+      "parkId": "288747d1-8b4f-4a64-867e-ea7c9b27bad8",
+      "park": "Disney's Hollywood Studios",
+      "shortName": "Hollywood Studios"
+    },
+    {
+      "parkId": "1c84a229-8862-4648-9c71-378ddd2c7693",
+      "park": "Disney's Animal Kingdom Theme Park",
+      "shortName": "Animal Kingdom"
+    },
+    {
+      "parkId": "eb3f4560-2383-4a36-9152-6b3e5ed6bc57",
+      "park": "Universal Studios Florida",
+      "shortName": "Universal Studios"
+    },
+    {
+      "parkId": "267615cc-8943-4c2a-ae2c-5da728ca591f",
+      "park": "Universal Islands of Adventure",
+      "shortName": "Islands of Adventure"
+    },
+    {
+      "parkId": "12dbb85b-265f-44e6-bccf-f1faa17211fc",
+      "park": "Universal Epic Universe",
+      "shortName": "Epic Universe"
+    }
+  ]
+}

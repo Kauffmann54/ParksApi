@@ -1,0 +1,294 @@
+{
+  "schemaVersion": "1.0-mobile",
+  "priorityThreshold": 3.5,
+  "entities": [
+    {
+      "entityId": "73cb9445-0695-47a3-87ce-d08ae36b5f3c",
+      "name": "Tiana's Bayou Adventure",
+      "parkId": "75ea578a-adc8-4116-a54d-dccb60765ef9",
+      "priorityBase": 5
+    },
+    {
+      "entityId": "352feb94-e52e-45eb-9c92-e4b44c6b1a9d",
+      "name": "Pirates of the Caribbean",
+      "parkId": "75ea578a-adc8-4116-a54d-dccb60765ef9",
+      "priorityBase": 4
+    },
+    {
+      "entityId": "2551a77d-023f-4ab1-9a19-8afec0190f39",
+      "name": "Haunted Mansion",
+      "parkId": "75ea578a-adc8-4116-a54d-dccb60765ef9",
+      "priorityBase": 4
+    },
+    {
+      "entityId": "5a43d1a7-ad53-4d25-abfe-25625f0da304",
+      "name": "TRON Lightcycle / Run",
+      "parkId": "75ea578a-adc8-4116-a54d-dccb60765ef9",
+      "priorityBase": 5
+    },
+    {
+      "entityId": "b2260923-9315-40fd-9c6b-44dd811dbe64",
+      "name": "Space Mountain",
+      "parkId": "75ea578a-adc8-4116-a54d-dccb60765ef9",
+      "priorityBase": 5
+    },
+    {
+      "entityId": "9d4d5229-7142-44b6-b4fb-528920969a2c",
+      "name": "Seven Dwarfs Mine Train",
+      "parkId": "75ea578a-adc8-4116-a54d-dccb60765ef9",
+      "priorityBase": 5
+    },
+    {
+      "entityId": "480fde8f-fe58-4bfb-b3ab-052a39d4db7c",
+      "name": "Spaceship Earth",
+      "parkId": "47f90d2c-e191-4239-a466-5892ef59a88b",
+      "priorityBase": 5
+    },
+    {
+      "entityId": "81b15dfd-cf6a-466f-be59-3dd65d2a2807",
+      "name": "Soarin' Across America",
+      "parkId": "47f90d2c-e191-4239-a466-5892ef59a88b",
+      "priorityBase": 4
+    },
+    {
+      "entityId": "e3549451-b284-453d-9c31-e3b1207abd79",
+      "name": "Guardians of the Galaxy: Cosmic Rewind",
+      "parkId": "47f90d2c-e191-4239-a466-5892ef59a88b",
+      "priorityBase": 5
+    },
+    {
+      "entityId": "37ae57c5-feaf-4e47-8f27-4b385be200f0",
+      "name": "Test Track",
+      "parkId": "47f90d2c-e191-4239-a466-5892ef59a88b",
+      "priorityBase": 4
+    },
+    {
+      "entityId": "1e735ffb-4868-47f1-b2cd-2ac1156cd5f0",
+      "name": "Remy's Ratatouille Adventure",
+      "parkId": "47f90d2c-e191-4239-a466-5892ef59a88b",
+      "priorityBase": 5
+    },
+    {
+      "entityId": "8d7ccdb1-a22b-4e26-8dc8-65b1938ed5f0",
+      "name": "Frozen Ever After",
+      "parkId": "47f90d2c-e191-4239-a466-5892ef59a88b",
+      "priorityBase": 4
+    },
+    {
+      "entityId": "6e118e37-5002-408d-9d88-0b5d9cdb5d14",
+      "name": "Mickey & Minnie's Runaway Railway",
+      "parkId": "288747d1-8b4f-4a64-867e-ea7c9b27bad8",
+      "priorityBase": 4
+    },
+    {
+      "entityId": "6f6998e8-a629-412c-b964-2cb06af8e26b",
+      "name": "The Twilight Zone™ Tower of Terror",
+      "parkId": "288747d1-8b4f-4a64-867e-ea7c9b27bad8",
+      "priorityBase": 5
+    },
+    {
+      "entityId": "e516f303-e82d-4fd3-8fbf-8e6ab624cf89",
+      "name": "Rock ’n’ Roller Coaster Starring The Muppets",
+      "parkId": "288747d1-8b4f-4a64-867e-ea7c9b27bad8",
+      "priorityBase": 4
+    },
+    {
+      "entityId": "20b5daa8-e1ea-436f-830c-2d7d18d929b5",
+      "name": "Toy Story Mania!",
+      "parkId": "288747d1-8b4f-4a64-867e-ea7c9b27bad8",
+      "priorityBase": 5
+    },
+    {
+      "entityId": "399aa0a1-98e2-4d2b-b297-2b451e9665e1",
+      "name": "Slinky Dog Dash",
+      "parkId": "288747d1-8b4f-4a64-867e-ea7c9b27bad8",
+      "priorityBase": 5
+    },
+    {
+      "entityId": "34c4916b-989b-4ff1-a7e3-a6a846a3484f",
+      "name": "Millennium Falcon: Smugglers Run",
+      "parkId": "288747d1-8b4f-4a64-867e-ea7c9b27bad8",
+      "priorityBase": 4
+    },
+    {
+      "entityId": "1a2e70d9-50d5-4140-b69e-799e950f7d18",
+      "name": "Star Wars: Rise of the Resistance",
+      "parkId": "288747d1-8b4f-4a64-867e-ea7c9b27bad8",
+      "priorityBase": 5
+    },
+    {
+      "entityId": "32e01181-9a5f-4936-8a77-0dace1de836c",
+      "name": "Kilimanjaro Safaris",
+      "parkId": "1c84a229-8862-4648-9c71-378ddd2c7693",
+      "priorityBase": 4
+    },
+    {
+      "entityId": "64a6915f-a835-4226-ba5c-8389fc4cade3",
+      "name": "Expedition Everest - Legend of the Forbidden Mountain",
+      "parkId": "1c84a229-8862-4648-9c71-378ddd2c7693",
+      "priorityBase": 5
+    },
+    {
+      "entityId": "7a5af3b7-9bc1-4962-92d0-3ea9c9ce35f0",
+      "name": "Na'vi River Journey",
+      "parkId": "1c84a229-8862-4648-9c71-378ddd2c7693",
+      "priorityBase": 4
+    },
+    {
+      "entityId": "24cf863c-b6ba-4826-a056-0b698989cbf7",
+      "name": "Avatar Flight of Passage",
+      "parkId": "1c84a229-8862-4648-9c71-378ddd2c7693",
+      "priorityBase": 5
+    },
+    {
+      "entityId": "d58d9262-ec95-4161-80a0-07ca43b2f5f3",
+      "name": "Kali River Rapids",
+      "parkId": "1c84a229-8862-4648-9c71-378ddd2c7693",
+      "priorityBase": 3.5
+    },
+    {
+      "entityId": "750939c5-a69e-408a-8d55-66c272fa265e",
+      "name": "TRANSFORMERS™ The Ride-3D",
+      "parkId": "eb3f4560-2383-4a36-9152-6b3e5ed6bc57",
+      "priorityBase": 3.5
+    },
+    {
+      "entityId": "6a3ffac7-bef4-4a22-8ba6-f2963aac7f70",
+      "name": "Fast & Furious - Supercharged™",
+      "parkId": "eb3f4560-2383-4a36-9152-6b3e5ed6bc57",
+      "priorityBase": 4
+    },
+    {
+      "entityId": "70ac72a3-9675-4c41-a1b1-e4801072927a",
+      "name": "Harry Potter and the Escape from Gringotts™",
+      "parkId": "eb3f4560-2383-4a36-9152-6b3e5ed6bc57",
+      "priorityBase": 5
+    },
+    {
+      "entityId": "91cae293-64f8-48b6-88ec-02dcfcdd1f91",
+      "name": "MEN IN BLACK™ Alien Attack!™",
+      "parkId": "eb3f4560-2383-4a36-9152-6b3e5ed6bc57",
+      "priorityBase": 4
+    },
+    {
+      "entityId": "7e70bc9e-7dce-4dd2-8823-57b8d6ec7570",
+      "name": "The Simpsons Ride™",
+      "parkId": "eb3f4560-2383-4a36-9152-6b3e5ed6bc57",
+      "priorityBase": 4
+    },
+    {
+      "entityId": "1e16afdd-15e3-4e4a-b3af-8aeebd7534f8",
+      "name": "E.T. Adventure™",
+      "parkId": "eb3f4560-2383-4a36-9152-6b3e5ed6bc57",
+      "priorityBase": 5
+    },
+    {
+      "entityId": "ec25d9a7-b4d4-4ebf-a6c4-c18389351764",
+      "name": "Revenge of the Mummy™",
+      "parkId": "eb3f4560-2383-4a36-9152-6b3e5ed6bc57",
+      "priorityBase": 5
+    },
+    {
+      "entityId": "7288f24a-396e-4eeb-bb3b-4a90e65269f2",
+      "name": "Despicable Me Minion Mayhem™",
+      "parkId": "eb3f4560-2383-4a36-9152-6b3e5ed6bc57",
+      "priorityBase": 5
+    },
+    {
+      "entityId": "61079a31-4165-4fb0-b36f-c01c5971f80a",
+      "name": "Jurassic World VelociCoaster",
+      "parkId": "267615cc-8943-4c2a-ae2c-5da728ca591f",
+      "priorityBase": 5
+    },
+    {
+      "entityId": "578bbd12-1975-4ec3-9879-ea641c780342",
+      "name": "Hagrid's Magical Creatures Motorbike Adventure™",
+      "parkId": "267615cc-8943-4c2a-ae2c-5da728ca591f",
+      "priorityBase": 5
+    },
+    {
+      "entityId": "6af80308-647d-4d8b-bcf6-37517a93bdbc",
+      "name": "Harry Potter and the Forbidden Journey™",
+      "parkId": "267615cc-8943-4c2a-ae2c-5da728ca591f",
+      "priorityBase": 4
+    },
+    {
+      "entityId": "db5b2165-15c2-4e51-8bd1-611e9c351866",
+      "name": "Jurassic Park River Adventure",
+      "parkId": "267615cc-8943-4c2a-ae2c-5da728ca591f",
+      "priorityBase": 5
+    },
+    {
+      "entityId": "370ba4d1-f199-4dc2-be6d-6bb09b442891",
+      "name": "Skull Island: Reign of Kong™",
+      "parkId": "267615cc-8943-4c2a-ae2c-5da728ca591f",
+      "priorityBase": 4
+    },
+    {
+      "entityId": "905d7888-b866-4e74-90d1-07fc6ef6706f",
+      "name": "Dudley Do-Right's Ripsaw Falls®",
+      "parkId": "267615cc-8943-4c2a-ae2c-5da728ca591f",
+      "priorityBase": 5
+    },
+    {
+      "entityId": "b4445a1c-4d5c-4fca-a04a-f8867f1b6619",
+      "name": "Popeye & Bluto's Bilge-Rat Barges®",
+      "parkId": "267615cc-8943-4c2a-ae2c-5da728ca591f",
+      "priorityBase": 5
+    },
+    {
+      "entityId": "6be23178-7d00-4884-9e88-76787da1df86",
+      "name": "The Amazing Adventures of Spider-Man®",
+      "parkId": "267615cc-8943-4c2a-ae2c-5da728ca591f",
+      "priorityBase": 5
+    },
+    {
+      "entityId": "fa743143-281b-4b5b-b87b-d49fcb006772",
+      "name": "The Incredible Hulk Coaster®",
+      "parkId": "267615cc-8943-4c2a-ae2c-5da728ca591f",
+      "priorityBase": 5
+    },
+    {
+      "entityId": "43df71bf-aa7c-46c0-925c-46f69d8bf23f",
+      "name": "Mario Kart™: Bowser's Challenge",
+      "parkId": "12dbb85b-265f-44e6-bccf-f1faa17211fc",
+      "priorityBase": 5
+    },
+    {
+      "entityId": "dd8c015d-511f-47d4-b98b-18ce15735588",
+      "name": "Mine-Cart Madness™",
+      "parkId": "12dbb85b-265f-44e6-bccf-f1faa17211fc",
+      "priorityBase": 5
+    },
+    {
+      "entityId": "dbc4f0d8-fdef-4dfc-a1c2-33917f742f40",
+      "name": "Harry Potter and the Battle at the Ministry™",
+      "parkId": "12dbb85b-265f-44e6-bccf-f1faa17211fc",
+      "priorityBase": 5
+    },
+    {
+      "entityId": "1fda5e1f-8712-4165-a81d-ad74eef3e8ee",
+      "name": "Monsters Unchained: The Frankenstein Experiment",
+      "parkId": "12dbb85b-265f-44e6-bccf-f1faa17211fc",
+      "priorityBase": 5
+    },
+    {
+      "entityId": "eaca831d-bcbb-4a1e-9bf0-6ea97ccc88e0",
+      "name": "Curse of the Werewolf",
+      "parkId": "12dbb85b-265f-44e6-bccf-f1faa17211fc",
+      "priorityBase": 4
+    },
+    {
+      "entityId": "c6b1b8cf-55ef-416c-b00d-e469993617b0",
+      "name": "Hiccup's Wing Gliders",
+      "parkId": "12dbb85b-265f-44e6-bccf-f1faa17211fc",
+      "priorityBase": 5
+    },
+    {
+      "entityId": "447033ce-ee1f-4cca-bb12-47d22583ac12",
+      "name": "Stardust Racers",
+      "parkId": "12dbb85b-265f-44e6-bccf-f1faa17211fc",
+      "priorityBase": 5
+    }
+  ]
+}
