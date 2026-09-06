@@ -24,3 +24,13 @@ node test.mjs
 ```
 
 A única fonte de dados é ThemeParks.wiki.
+
+
+## Atualizando da V1 para V2.1
+
+Este pacote foi preparado para ser extraído diretamente na raiz do repositório.
+Depois do commit, abra o site com `?v=21` uma vez, por exemplo:
+
+`https://SEU-USUARIO.github.io/SEU-REPOSITORIO/?v=21`
+
+Se ainda aparecer “Filas prioritárias”, o GitHub Pages ainda está servindo o `index.html` antigo da raiz. Confira no repositório se o arquivo `index.html` contém `ORLANDO LIVE · V2.1`.
