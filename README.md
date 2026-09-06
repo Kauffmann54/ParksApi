@@ -34,3 +34,13 @@ Depois do commit, abra o site com `?v=21` uma vez, por exemplo:
 `https://SEU-USUARIO.github.io/SEU-REPOSITORIO/?v=21`
 
 Se ainda aparecer “Filas prioritárias”, o GitHub Pages ainda está servindo o `index.html` antigo da raiz. Confira no repositório se o arquivo `index.html` contém `ORLANDO LIVE · V2.1`.
+
+
+## V2.2
+O conteúdo de **Copiar para ChatGPT** acompanha automaticamente a aba atual e também a busca:
+- Prioritárias → prioridades visíveis;
+- Atrações → atrações visíveis;
+- Shows → shows visíveis;
+- Restaurantes → restaurantes visíveis.
+
+Não há mais checkbox para ativar esse comportamento.
