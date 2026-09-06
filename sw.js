@@ -1,4 +1,4 @@
-const CACHE='filas-orlando-v2-2';
+const CACHE='filas-orlando-v2-3';
 const ASSETS=['./styles.css?v=21','./app.js?v=21','./parks.json','./aliases.json','./strategy_overlay.runtime.json','./manifest.json?v=21','./icon.svg'];
 self.addEventListener('install',event=>{
   self.skipWaiting();

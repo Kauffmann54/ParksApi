@@ -44,3 +44,26 @@ O conteúdo de **Copiar para ChatGPT** acompanha automaticamente a aba atual e t
 - Restaurantes → restaurantes visíveis.
 
 Não há mais checkbox para ativar esse comportamento.
+
+
+## V2.3 — nomes completos
+
+Para reduzir ambiguidades no ChatGPT:
+
+- o texto copiado usa sempre o **nome completo oficial** da atração;
+- a linha `FIZ:` também usa o nome completo;
+- shows e restaurantes usam nome completo;
+- a interface agora mostra os nomes completos e permite quebra de linha;
+- os aliases continuam disponíveis apenas internamente para compatibilidade e mapeamento por `entityId`.
+
+Exemplo:
+
+```text
+PARQUE: Islands of Adventure
+FIZ: Hagrid's Magical Creatures Motorbike Adventure™
+
+Jurassic World VelociCoaster 45
+Hagrid's Magical Creatures Motorbike Adventure™ 80
+Harry Potter and the Forbidden Journey™ 15
+Jurassic Park River Adventure 20
+```
